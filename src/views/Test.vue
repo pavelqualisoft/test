@@ -16,6 +16,8 @@ d
 lkakaaaaaa
 
 
+to stash save
+
 <script>
 // @ is an alias to /src
 // import HelloWorld from "@/components/HelloWorld.vue";
