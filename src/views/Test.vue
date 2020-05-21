@@ -10,6 +10,7 @@
   </div>
 </template>
 
+<<<<<<< HEAD
 master change
 test line
 sdfkjlslk
@@ -22,6 +23,8 @@ bbbbbbb
 to stash save
 to stash 2
 
+=======
+>>>>>>> 8579e54917302dd9b50c500dd82a458192360144
 <script>
 // @ is an alias to /src
 // import HelloWorld from "@/components/HelloWorld.vue";
@@ -68,6 +71,10 @@ export default {
   },
   methods: {
     checkingInput(target) {
+<<<<<<< HEAD
+=======
+      // console.log(target);
+>>>>>>> 8579e54917302dd9b50c500dd82a458192360144
       var aData = {};
       aData[target.value] = target.checked;
       // this.userAnswers.splice(this.position, 1, aData);
