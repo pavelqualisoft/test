@@ -10,6 +10,8 @@
   </div>
 </template>
 
+test line
+
 <script>
 // @ is an alias to /src
 // import HelloWorld from "@/components/HelloWorld.vue";
