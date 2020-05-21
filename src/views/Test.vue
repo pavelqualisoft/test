@@ -18,6 +18,8 @@ lkakaaaaaa
 
 to stash save
 
+new change
+
 <script>
 // @ is an alias to /src
 // import HelloWorld from "@/components/HelloWorld.vue";
