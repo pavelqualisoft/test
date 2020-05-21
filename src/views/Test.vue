@@ -18,6 +18,7 @@ lkakaaaaaa
 
 
 to stash save
+to stash 2
 
 <script>
 // @ is an alias to /src
